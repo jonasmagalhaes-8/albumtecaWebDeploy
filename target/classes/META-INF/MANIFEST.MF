@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Magalhães
+Build-Jdk: 17.0.1
+Implementation-Title: test
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.test
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/test
+Created-By: Maven Integration for Eclipse
+
